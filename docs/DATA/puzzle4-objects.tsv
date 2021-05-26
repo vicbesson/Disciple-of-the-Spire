@@ -1,0 +1,24 @@
+1;imm;0;0;0;0;3;You've found an immunity necklace. This will prevent you from being harmed by a monster or a catastrophe. GOLD +3
+1;imm;0;0;0;0;3;You've found an immunity necklace. This will prevent you from being harmed by a monster or a catastrophe. GOLD +3
+1;imm;0;0;0;0;3;You've found an immunity necklace. This will prevent you from being harmed by a monster or a catastrophe. GOLD +3
+1;dyn;0;0;0;0;0;You've found a dynamite. Six jars will be destroyed
+1;heal;3;0;0;0;0;You've found a health potion. HEALTH +3
+1;heal;3;0;0;0;0;You've found a eucalyptus. HEALTH +3
+1;intel;0;0;3;0;0;You've found a quill. Wisdom gained. INTELLIGENCE +3
+1;intel;0;0;3;0;0;The spirit of The Great Lord has bestowed you a gift of knowledge. INTELLIGENCE +3
+1;speed;0;0;0;3;0;You've found a speed potion. SPEED +3.
+1;speed;0;0;0;3;0;You've found a speed potion. SPEED +3.
+1;dex;0;3;0;0;0;A section of the wall reveals a wrecking ball. Fortunately, you've managed to dodge it. DEXTERITY +3
+1;dex;0;3;0;0;0;A wooshing sound came out of the ceiling. You duck and found yourself still alive. A spear almost hit you. DEXTERITY +3
+1;clue;0;0;0;0;0;You've found a clue to the key.
+1;clue;0;0;0;0;0;You've found a clue to the key.
+-1;dragon;-5;0;0;0;0;The jar explodes and reveals a fire-breathing dragon. You suffered from a severe burn. HEALTH -5
+-1;mermaid;0;0;0;-3;0;You hear a sweet voice. Gentle and calm. A beautiful woman pops out of the jar and smiles. Your mind goes blank. Little did you know that she is a witch hypnotizing you. SPEED -3
+-1;goblin;0;0;0;0;-10;A small hand pops out of the jar. Its nails are long and sharp. Its eyes red. It jumps out and run towards you. It snatches your bag of gold and goes back to its jar. GOLD -10
+-1;serpent;-5;0;0;0;0;Something emerged from the jar. It crawls out of the jar. You feel its rough scaly skin, tightening its body to your body until you gasp. The basilisk strangles you. You found your way out of its grip. Suddenly, the basilisk goes back to its jar. HEALTH -5
+-1;earthquake;0;-2;0;0;0;The ground cracks open. The room shakes uncontrollably and made you collapse. An earthquake just happened. DEXTERITY -2
+-1;tar;-1;0;0;-2;0;You notice a black liquid pouring out of the jar. You feel the heat as the liquid comes close to you. It is hot and thick. It floods the whole room. You came out choking and feeling the heat as you emerge from the hot tar. HEALTH -1, SPEED -2
+-1;tornado;0;-2;0;0;0;The jar exploded out. A strong force of wind came out. It slams your head to the ceiling and knock you unconscious. DEXTERITY -2
+-1;flood;0;-2;0;0;0;The jar shakes and suddenly shoots a stream of water. The water floods the whole room and almost got you drowned. DEXTERITY -2
+-1;smoke;-2;0;0;0;0;Smoke billows out of the jar. You reach your hand onto the smoke and feel a searing pain. You see boils coming out of your hand. You tried to avoid the smoke and it quickly fills the room. Nowhere to hide. As a result, all of your body is covered with boils. HEALTH -2
+1;key;0;0;0;0;0;You've found the key! Congratulations.
